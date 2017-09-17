@@ -1,0 +1,83 @@
+@media (max-width: 767px) {
+	.left i,
+	.right i {
+		font-size: 1em
+	}
+	.carousel-control.right {
+		padding-right: 25px
+	}
+	.feat h3 {
+		font-size: 14px
+	}
+	h1 {
+		font-size: 24px
+	}
+	.feat i {
+		font-size: 24px
+	}
+	.testimonials .carousel-indicators li {
+		height: 30px;
+		width: 30px
+	}
+	.testimonials .carousel-indicators .active {
+		width: 40px;
+		height: 40px
+	}
+	.price h1 {
+		font-size: 24px
+	}
+	.price-box h2 {
+		font-size: 20px
+	}
+	.price .price-box p {
+		width: 80px;
+		height: 80px;
+		font-size: 24px;
+		line-height: 80px;
+	}
+	.our-team img
+	 {
+		max-width: 70%
+	}
+	.subscribe .form-control {
+		width: 220px;
+		margin-bottom: 10px;
+	}
+	.btn-group-lg>.btn,
+	.btn-lg {
+		padding: 8px 8px;
+		font-size: 14px;
+	}
+	.hobby {
+		height: 150px;
+	}
+	.hobby h2 {
+		font-size: 24px
+	}
+	.hobby i {
+		font-size: 3em
+	}
+	.three p {
+		display: none
+	}
+	.our-client img {
+		margin: 8px 0
+	}
+	.aboutUs h1{font-size: 30px}
+	.loading .spinner {left: 43%}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+	.hobby {
+		margin-bottom: 10px;
+		width: 90%
+	}
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+	.hobby {
+		margin-bottom: 10px
+	}
+}
+
+@media (min-width:1200px) {.aboutUs img{margin-left: 200px}}

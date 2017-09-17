@@ -1,0 +1,55 @@
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a:hover,
+.carousel-indicators .active,
+.option-box .color-option ul li,
+.progress-bar.active,
+.progress.active .progress-bar,
+.contact .btn-primary:hover,
+.gear-check, .subscribe button, .two, .four , .subscribe button:hover, #scroll-top{
+	background-color: #c33734;
+}
+
+a span,
+.cap1 h2,
+.about h1 span,
+.testimonials h3,
+.footer h3,
+.copyRight span, .left i,
+	.right i {
+	color: #c33734;
+}
+.cap1 .btn {
+	color: #c33734 !important;
+}
+
+.option-box .color-option {
+	border: 4px solid #c33734;
+}
+
+.subscribe h1:hover {
+	border-top: 2px solid #c33734;
+	border-bottom: 2px solid #c33734;
+}
+
+.contact .btn-primary {
+	background: #c33734;
+	border-color: #c33734;
+}
+.cap1 .btn {
+	background: rgba(199, 139, 138, 0.78) !important;}
+.btn-danger {
+    border-color: rgba(199, 139, 138, 0.78) !important;
+}
+.aboutUs, .faq {
+	background: rgb(207, 89, 25);
+	/* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(to right, rgba(199, 139, 138, 0.78), #c33734);
+	/*Safari 5.1-6*/
+	background: -o-linear-gradient(to right, rgba(199, 139, 138, 0.78), #c33734);
+	/*Opera 11.1-12*/
+	background: -moz-linear-gradient(to right, rgba(199, 139, 138, 0.78), #c33734);
+	/*Fx 3.6-15*/
+	background: linear-gradient(to right, rgba(199, 139, 138, 0.78), #c33734);
+}
